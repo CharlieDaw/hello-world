@@ -1,30 +1,30 @@
-This is the first line.
-Adding line one between first and 2.
-One more line.
-Another line between first and 2.
+8
 A final line between first and 2.
-Line number 2.
-Third Line.
+abc
+Adding line one between first and 2.
+Another line between first and 2.
+def
+Five gold rings.
 Four.
-This is a test.
-This is a test.
-This is a test.
+ghi
+jkl
+Line number 2.
+mno
+Niner Niner Niner.
+Nothings better than 7.
+One more line.
+pqr
+Six Six Six
+stu
+Ten
+Third Line.
 This is a t35t.
 This is a test.
 This is a test.
-Five gold rings.
-Six Six Six
-Nothings better than 7.
-8
-Niner Niner Niner.
-abc
-def
-ghi
-jkl
-mno
-zzz
-pqr
-stu
+This is a test.
+This is a test.
+This is a test.
+This is the first line.
 vwx
 y&z
-Ten
+zzz
