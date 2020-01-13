@@ -1,2 +1,3 @@
-# hello-world
-GitHub Guide Exercise 1 - https://guides.github.com/activities/hello-world/
+This is a test.
+This is a branch.
+It will be Committed.
